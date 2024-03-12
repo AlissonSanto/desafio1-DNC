@@ -7,7 +7,7 @@
 .header{
     background-color: #303030;
     color: white;
-    padding: 80px 5%;
+    padding: 80px 10%;
     font-size: 3.3vw;
 
 
@@ -15,7 +15,7 @@
         padding-bottom: 15px;
     }
     p{
-    font-size: 5vw;
+    font-size: 4vw;
 
     }
 }
@@ -46,7 +46,7 @@
     
     div{
         width: 80%;
-        padding-left: 5%;
+        padding-left: 10%;
         padding-right: 10%;
         padding-bottom: 40px;
 
