@@ -26,6 +26,7 @@
     height: 100px;
     align-items: center;
     background-color: #f9f9f9;
+    margin-bottom: 5%;
     
     p{
         font-size: 2vw;
@@ -41,6 +42,7 @@
 }
 
 .content{
+    
     
     div{
         width: 80%;
