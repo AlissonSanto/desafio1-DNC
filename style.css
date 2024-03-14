@@ -70,7 +70,6 @@
         color: white;
     }
     div{
-        
         form{
             display: grid;
             width: 50%;
@@ -96,10 +95,18 @@
             height: 25px;
             color: white;
             border: none;
-            border-radius: 3px;
-
-            
+            border-radius: 3px;  
+            cursor: pointer;
         }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        
+        button:hover{
+            background-color: #d88725;
+        }
+        
     }
     
 }
